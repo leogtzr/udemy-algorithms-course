@@ -26,6 +26,7 @@ public class QuickUnion {
     public void union(final int p, final int q) {
         int i = root(p);
         int j = root(q);
+        // Set the root of the first one to the second one.
         id[i] = j;
     }
 
