@@ -1,0 +1,6 @@
+[package]
+name = "quickfind-rust"
+version = "0.1.0"
+authors = ["leogtzr <leogutierrezramirez@gmail.com>"]
+
+[dependencies]
