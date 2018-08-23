@@ -39,6 +39,9 @@ public class QuickFindUF {
         }
     }
 
+    /*
+        O(N)
+     */
     @Override
     public String toString() {
         final StringBuilder sb = new StringBuilder();
